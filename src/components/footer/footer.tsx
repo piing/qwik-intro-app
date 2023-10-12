@@ -6,6 +6,7 @@ export default component$(() => {
 
   return (
     <footer>
+      <select><option>ANOTHER SELECT</option></select>
       I AM THE FOOTER
     </footer>
   );
